@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Hi, I'm **Taimour Zahid** ⚙️
+# 🌊 Hi, I'm **Taimour Zahid** ⚙️
 
 ---
 
 ## About Me
 
-I’m passionate about **Design Engineering**, specifically **Design for Manufacturability (DFM)**, **fluid mechanics**, **CFD simulations**, **biomimetics**, and mechanical systems. I focus on optimizing performance in various applications such as **aerodynamics**, **wind tunnel testing**, **biomimetic design**, and **mechanical systems**.
+I’m passionate about **Design Engineering**, specifically **Design for Manufacturability (DFM)**, **fluid mechanics** 💧, **CFD simulations**, **biomimetics**, and mechanical systems. I focus on optimizing performance in various applications such as **aerodynamics**, **wind tunnel testing**, **biomimetic design**, and **mechanical systems**.
 
 ---
 
@@ -34,7 +34,7 @@ I’m passionate about **Design Engineering**, specifically **Design for Manufac
 ## 📚 **Research Interests**:
 - **Design Engineering (DFM)**: Focused on optimizing designs for manufacturability and cost-efficiency.  
 - **CFD applications** in aerodynamics, thermal management, and fluid-structure interaction.  
-- **Fluid Mechanics**: Exploring flow dynamics, drag reduction strategies, and enhancing efficiency through surface modifications.  
+- **Fluid Mechanics** : Exploring flow dynamics, drag reduction strategies, and enhancing efficiency through surface modifications.  
 - **Biomimetics**: Applying nature-inspired design principles to enhance performance and innovation in engineering.  
 - **Mechanics of Materials**: Analyzing structural integrity, failure mechanisms, and material behavior under stress.  
 - **Mechanics of Machines**: Focusing on the design, analysis, and optimization of mechanical systems and components.
