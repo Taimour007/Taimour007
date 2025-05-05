@@ -6,35 +6,52 @@
 
 ## About Me
 
-I'm passionate about **fluid mechanics**, **CFD simulations**, **biomimetics**, and designing engineering systems. I focus on optimizing performance in various applications, such as **aerodynamics**, **wind tunnel testing**, **biomimetic design**, and **mechanical systems**.
+I’m passionate about **Design Engineering**, specifically **Design for Manufacturability (DFM)**, **fluid mechanics**, **CFD simulations**, **biomimetics**, and mechanical systems. I focus on optimizing performance in various applications such as **aerodynamics**, **wind tunnel testing**, **biomimetic design**, and **mechanical systems**.
 
 ---
 
-## 🌱 **Current Projects**:
+## 🌱 **Projects I've Worked On**:
+- **High-Precision Wind Tunnel**  
+  Designed a wind tunnel for drag and lift measurements, integrating Python for real-time data acquisition. Recognized as the best project in the batch.
+  
+- **Automated Wind Tunnel Control System**  
+  Developed an Arduino-based servo control system, integrating load cells, speed sensors, and pressure transducers for automated force measurement.
+  
 - **Lithium-Ion Battery Thermal Management**  
-  (Simulation and optimization in ANSYS Fluent).
+  Conducted CFD simulations in ANSYS Fluent to optimize battery cooling strategies using Multi-Scale Multi-Domain (MSMD) model.
   
-- **Wind Tunnel Testing and Controls Engineering**  
-  (Arduino-based drag and lift measurement system).
+- **Stress & Failure Analysis of OceanGate Titan Submersible**  
+  Performed structural analysis on a carbon fiber epoxy submersible, evaluating failure mechanisms under extreme loading conditions.
   
-- **Stress and Failure Analysis**  
-  (OceanGate Titan submersible).
+- **Aircraft Landing Gear Design**  
+  Designing a fully functional aircraft landing gear system using CATIA.
   
-- **Bat-Inspired Agile Flying Robot**  
-  (Biomimetic design integrated with CFD for enhanced aerodynamic performance).
+- **EHPVC Design and Simulation**  
+  Led a team in designing and simulating an Electric Human Powered Vehicle (EHPVC), optimizing aerodynamics and structural integrity through CAD modeling and CFD/FEA simulations.
+
+---
+
+## 🖥️ **3D Modeling and Design Projects**:
+- **ASUS Motherboard 3D Model**  
+  Created a high-fidelity CAD model of an ASUS motherboard using SolidWorks.
+  
+- **Line Follower Robot with Obstacle Detection**  
+  Designed an autonomous line-following bot with real-time obstacle detection and path correction algorithms.
 
 ---
 
 ## 📚 **Research Interests**:
+- **Design Engineering (DFM)**: Focused on optimizing designs for manufacturability and cost-efficiency.  
 - **CFD applications** in aerodynamics, thermal management, and fluid-structure interaction.  
-- **Biomimetic design** and its applications in engineering, focusing on natural flight dynamics and structural optimization.  
-- **Drag reduction** over bluff bodies and enhancing efficiency through innovative surface modifications.  
-- Exploring **innovative cooling solutions** for battery systems and other energy storage technologies.
+- **Fluid Mechanics**: Exploring flow dynamics, drag reduction strategies, and enhancing efficiency through surface modifications.  
+- **Biomimetics**: Applying nature-inspired design principles to enhance performance and innovation in engineering.  
+- **Mechanics of Materials**: Analyzing structural integrity, failure mechanisms, and material behavior under stress.  
+- **Mechanics of Machines**: Focusing on the design, analysis, and optimization of mechanical systems and components.
 
 ---
 
 ## 💼 **Let’s Collaborate**:
-I’m looking to collaborate on **CFD projects**, **biomimetics**, **aerodynamic simulations**, and **material-related projects** for real-world engineering applications.
+I’m looking to collaborate on **CFD projects**, **biomimetics**, **aerodynamic simulations**, **material-related projects**, and **mechanical system optimizations** for real-world engineering applications.
 
 ---
 
