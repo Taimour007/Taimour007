@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Taimour Zahid** 🌟
+# 👨‍💻 Hi, I'm **Taimour Zahid** ⚙️
 
 ---
 
