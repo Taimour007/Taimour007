@@ -31,15 +31,6 @@ I’m passionate about **Design Engineering**, specifically **Design for Manufac
 
 ---
 
-## 🖥️ **3D Modeling and Design Projects**:
-- **ASUS Motherboard 3D Model**  
-  Created a high-fidelity CAD model of an ASUS motherboard using SolidWorks.
-  
-- **Line Follower Robot with Obstacle Detection**  
-  Designed an autonomous line-following bot with real-time obstacle detection and path correction algorithms.
-
----
-
 ## 📚 **Research Interests**:
 - **Design Engineering (DFM)**: Focused on optimizing designs for manufacturability and cost-efficiency.  
 - **CFD applications** in aerodynamics, thermal management, and fluid-structure interaction.  
@@ -60,7 +51,8 @@ I’m looking to collaborate on **CFD projects**, **biomimetics**, **aerodynamic
 
 ---
 
-## 🔗 **GrabCAD Profile**:  
+## 🔗 **3D Modeling Projects**:  
+You can explore my 3D modeling projects on my GrabCAD profile:  
 [**Taimour Zahid on GrabCAD**](https://grabcad.com/taimour.zahid-4)
 
 ---
