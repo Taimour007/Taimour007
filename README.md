@@ -84,3 +84,10 @@ Analyzed structural failure of a carbon fiber submarine using combined stress cr
 
 🔗 **Current Focus:**  
 Exploring multi-domain simulations combining CFD and control systems for real-world mechanical system optimization. Open to research collaborations and technical internships.
+
+---
+
+<!-- 🔥 GitHub Contribution Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TaimourZahid&theme=tokyonight&hide_border=true&background=0D1117&currStreakNum=FF6B6B&sideNums=00ADB5" alt="GitHub Streak" />
+</p>
