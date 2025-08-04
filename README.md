@@ -40,9 +40,17 @@
 
 🔧 **Tech Stack:**
 
-- 💻 *Design & Simulation:* SolidWorks, CATIA, ANSYS, WeBOTS  
-- ⚙️ *Programming:* Python, Arduino, MATLAB  
+- 💻 *Design & Simulation:*  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="20" alt="SolidWorks" /> SolidWorks,  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ansys_logo.svg/512px-Ansys_logo.svg.png" height="20" alt="ANSYS" /> ANSYS,  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Webots_logo.svg" height="20" alt="Webots" /> Webots,  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Netfabb_Logo.png" height="20" alt="Netfabb" /> Netfabb
 
+- ⚙️ *Programming:*  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20" alt="MATLAB" /> MATLAB,  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="20" alt="PyCharm" /> PyCharm,  
+  Python, Arduino
+  
 ---
 
 📂 **Projects:**
@@ -84,8 +92,6 @@ Analyzed structural failure of a carbon fiber submarine using combined stress cr
 
 🔗 **Current Focus:**  
 Exploring multi-domain simulations combining CFD and control systems for real-world mechanical system optimization. Open to research collaborations and technical internships.
-
----
 
 ---
 
