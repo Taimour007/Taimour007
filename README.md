@@ -38,23 +38,27 @@
 
 ---
 
+---
+
 🛠️ **Tools I Use**
 
+<!-- Row 1: Icons Only -->
 <p align="center">
-  <!-- SolidWorks icon from Icons8 (small PNG) -->
-  <img src="https://img.icons8.com/color/48/000000/solidworks.png" height="40" alt="SolidWorks" />
+  <!-- SolidWorks -->
+  <img src="https://img.icons8.com/color/48/000000/solidworks.png" height="40" alt="SolidWorks" style="margin: 0 25px;" />
 
-  <!-- MATLAB icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
+  <!-- MATLAB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" style="margin: 0 25px;" />
 
-  <!-- PyCharm icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
+  <!-- PyCharm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" style="margin: 0 25px;" />
+</p>
 
-  <!-- ANSYS icon from Wikimedia Commons (PNG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/ANSYS_logo.png" height="40" alt="ANSYS" />
-
-  <!-- Webots icon (fallback plain text) -->
-  <span style="font-size:1rem; margin:0 15px;">Webots</span>
+<!-- Row 2: Badge Fallbacks -->
+<p align="center">
+  <img alt="ANSYS" src="https://img.shields.io/badge/ANSYS-Simulation-yellow?style=for-the-badge&logoColor=white" style="margin: 0 15px;" />
+  <img alt="Webots" src="https://img.shields.io/badge/Webots-Robotics-green?style=for-the-badge&logoColor=white" style="margin: 0 15px;" />
+  <img alt="Netfabb" src="https://img.shields.io/badge/Netfabb-3D--Prep-orange?style=for-the-badge" style="margin: 0 15px;" />
 </p>
 
 ---
