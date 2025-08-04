@@ -8,7 +8,7 @@
   <a href="https://grabcad.com/taimour.zahid-1" target="_blank">
     <img src="https://img.shields.io/badge/GrabCAD-Taimour_Zahid-red?logo=grabcad&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/taimourzahid" target="_blank">
+  <a href="https://www.linkedin.com/in/taimour-z-41a39a290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Taimour_Zahid-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://github.com/TaimourZahid">
@@ -31,10 +31,10 @@
 
 👨‍💻 **About Me:**
 
-🎓 Final-year Mechanical Engineering student at NUST  
-🧠 Passionate about CFD, biomimetic robotics, and simulation-based design  
-🛠️ Skilled in CAD, structural analysis, and real-time control systems  
-🚀 Focused on fluid-structure interaction, thermal management, and DFM optimization
+🎓 Final-year Mechanical Engineering student at NUST.
+🧠 Passionate about CFD, biomimetic robotics, and simulation-based design. 
+🛠️ Skilled in CAD, structural analysis, and real-time control systems.  
+🚀 Focused on fluid-structure interaction, thermal management, and DFM optimization.
 
 ---
 
@@ -61,3 +61,26 @@ Led design and CFD/FEA analysis of a competitive vehicle for drag optimization a
 
 🌌 **OceanGate Submersible Failure Analysis**  
 Analyzed structural failure of a carbon fiber submarine using combined stress criteria and fatigue theory.
+
+---
+
+📚 **Research Interests:**
+
+- ✅ Design for Manufacturability (DFM & DFMA)
+- ✅ Computational Fluid Dynamics (CFD) 
+- ✅ Biomimetics & Nature-Inspired Systems  
+- ✅ Mechanics of Materials & Fluid Mechanics  
+- ✅ Embedded Control Systems for Mechatronics Applications
+
+---
+
+📫 **Let’s Connect:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TaimourZahid-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/taimourzahid)  
+[![GrabCAD](https://img.shields.io/badge/GrabCAD-3D_Projects-red?style=flat-square&logo=grabcad)](https://grabcad.com/taimour.zahid-1)  
+📧 taimourzahid999@gmail.com  
+
+---
+
+🔗 **Current Focus:**  
+Exploring multi-domain simulations combining CFD and control systems for real-world mechanical system optimization. Open to research collaborations and technical internships.
