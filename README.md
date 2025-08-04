@@ -41,23 +41,21 @@
 🛠️ **Tools I Use**
 
 <p align="center">
-  <!-- SolidWorks SVG (via SVGRepo, CC0 licensed) -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/solidworks.svg" height="40" alt="SolidWorks" />
+  <!-- SolidWorks icon from Icons8 (small PNG) -->
+  <img src="https://img.icons8.com/color/48/000000/solidworks.png" height="40" alt="SolidWorks" />
 
-  <!-- MATLAB icon via Devicons -->
+  <!-- MATLAB icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
 
-  <!-- ANSYS SVG via SVGRepo (CC0 license) -->
-  <img src="https://www.svgrepo.com/show/329931/ansys.svg" height="40" alt="ANSYS" />
+  <!-- PyCharm icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
 
-  <!-- Webots logo via Cyberbotics Brandfetch (public brand asset) -->
-  <img src="https://avatar-files.cbrandcdn.com/webots/logo/webots.svg" height="40" alt="Webots" />
+  <!-- ANSYS icon from Wikimedia Commons (PNG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/ANSYS_logo.png" height="40" alt="ANSYS" />
 
-  <!-- Netfabb (no free icon available) -->
-  <span style="font-size:0.9rem; margin:0 10px;">Netfabb</span>
-
-  <!-- PyCharm icon via Devicons -->
-  <img src="https://cdn
+  <!-- Webots icon (fallback plain text) -->
+  <span style="font-size:1rem; margin:0 15px;">Webots</span>
+</p>
 
 ---
 
