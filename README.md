@@ -87,7 +87,11 @@ Exploring multi-domain simulations combining CFD and control systems for real-wo
 
 ---
 
+---
+
 <!-- 🔥 GitHub Contribution Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TaimourZahid&theme=tokyonight&hide_border=true&background=0D1117&currStreakNum=FF6B6B&sideNums=00ADB5" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=TaimourZahid&theme=tokyonight&hide_border=true&background=0D1117&currStreakNum=FF6B6B&sideNums=00ADB5" alt="Taimour Zahid's GitHub Streak" />
+  </a>
 </p>
