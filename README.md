@@ -8,7 +8,7 @@
   <a href="https://grabcad.com/taimour.zahid-1" target="_blank">
     <img src="https://img.shields.io/badge/GrabCAD-Taimour_Zahid-red?logo=grabcad&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/taimourzahid" target="_blank">
+  <a href="https://linkedin.com/in/taimourzahid](https://www.linkedin.com/in/taimour-z-41a39a290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Taimour_Zahid-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://github.com/TaimourZahid">
