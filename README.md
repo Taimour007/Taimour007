@@ -23,7 +23,7 @@
 
 <!-- 🎞️ 4. Pixelated Motion Background Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/VzE2V9B.gif" alt="Pixel Tech Banner" width="100%" />
+  <img src="https://imgur.com/gallery/anime-gif-wallpapers-4ojUm92#op8DEcn" alt="Pixel Tech Banner" width="100%" />
 </p>
 
 <!-- 📄 5. About Me, Tech Stack, Projects -->
