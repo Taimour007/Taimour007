@@ -1,60 +1,68 @@
-<div align="center">
+![Header](https://yourdomain.com/pixellated-f1-banner.gif) <!-- Replace with actual hosted GIF link -->
 
-# 🌊 Hi, I'm **Taimour Zahid** ⚙️
-
----
-
-## About Me
-
-I’m passionate about **Design Engineering**, specifically **Design for Manufacturability (DFM)**, **fluid mechanics** 💧, **CFD simulations**, **biomimetics**, and mechanical systems. I focus on optimizing performance in various applications such as **aerodynamics**, **wind tunnel testing**, **biomimetic design**, and **mechanical systems**.
+🌊 **Hi, I'm Taimour Zahid** ⚙️  
+*Mechanical Engineering Student | CFD Enthusiast | Design Engineer | Biomimetics Explorer*
 
 ---
 
-## 🌱 **Projects I've Worked On**:
-- **High-Precision Wind Tunnel**  
-  Designed a wind tunnel for drag and lift measurements, integrating Python for real-time data acquisition. Recognized as the best project in the batch.
-  
-- **Automated Wind Tunnel Control System**  
-  Developed an Arduino-based servo control system, integrating load cells, speed sensors, and pressure transducers for automated force measurement.
-  
-- **Lithium-Ion Battery Thermal Management**  
-  Conducted CFD simulations in ANSYS Fluent to optimize battery cooling strategies using Multi-Scale Multi-Domain (MSMD) model.
-  
-- **Stress & Failure Analysis of OceanGate Titan Submersible**  
-  Performed structural analysis on a carbon fiber epoxy submersible, evaluating failure mechanisms under extreme loading conditions.
-  
-- **Aircraft Landing Gear Design**  
-  Designing a fully functional aircraft landing gear system using CATIA.
-  
-- **EHPVC Design and Simulation**  
-  Led a team in designing and simulating an Electric Human Powered Vehicle (EHPVC), optimizing aerodynamics and structural integrity through CAD modeling and CFD/FEA simulations.
+👨‍💻 **About Me:**
+
+🎓 Final-year Mechanical Engineering student at NUST (Pakistan)  
+🧠 Passionate about CFD, biomimetic robotics, and simulation-based design  
+🛠️ Skilled in CAD, structural analysis, and real-time control systems  
+🚀 Focused on fluid-structure interaction, thermal management, and DFM optimization
 
 ---
 
-## 📚 **Research Interests**:
-- **Design Engineering (DFM)**: Focused on optimizing designs for manufacturability and cost-efficiency.  
-- **CFD applications** in aerodynamics, thermal management, and fluid-structure interaction.  
-- **Fluid Mechanics** : Exploring flow dynamics, drag reduction strategies, and enhancing efficiency through surface modifications.  
-- **Biomimetics**: Applying nature-inspired design principles to enhance performance and innovation in engineering.  
-- **Mechanics of Materials**: Analyzing structural integrity, failure mechanisms, and material behavior under stress.  
-- **Mechanics of Machines**: Focusing on the design, analysis, and optimization of mechanical systems and components.
+🔧 **Tech Stack:**
+
+- 💻 *Design & Simulation:* SolidWorks, CATIA, ANSYS Fluent, Static Structural  
+- ⚙️ *Programming:* Python, Arduino (C++), MATLAB  
+- 📊 *Tools:* Fusion 360, Autodesk CFD, Raspberry Pi, HX711, BMP180  
+- 🔬 *Analysis:* Mohr’s Circle, Fatigue Theory, Thermal Modeling
 
 ---
 
-## 💼 **Let’s Collaborate**:
-I’m looking to collaborate on **CFD projects**, **biomimetics**, **aerodynamic simulations**, **material-related projects**, and **mechanical system optimizations** for real-world engineering applications.
+📂 **Projects:**
+
+🔬 **High-Precision Wind Tunnel**  
+Designed and developed a lab-grade wind tunnel for lift and drag measurement using load cells, sensors, and a Python-based control system.
+
+🔁 **Automated Control System for Wind Tunnel**  
+Built an Arduino-controlled actuation and data acquisition system with 2 DOF and real-time LCD display.
+
+🔋 **Lithium-Ion Battery Thermal Management**  
+Used ANSYS Fluent to simulate thermal behavior under multi-scale multi-domain models for optimized cooling.
+
+🛠️ **DFM-Focused Projects**  
+Worked extensively on reducing part count, improving manufacturability, and creating assembly-friendly designs.
+
+🌊 **EHPVC (Electric Human Powered Vehicle)**  
+Led design and CFD/FEA analysis of a competitive vehicle for drag optimization and structural integrity.
+
+🌌 **OceanGate Submersible Failure Analysis**  
+Analyzed structural failure of a carbon fiber submarine using combined stress criteria and fatigue theory.
 
 ---
 
-## 📧 **Contact Me**:  
-[taimourzahid999@gmail.com](mailto:taimourzahid999@gmail.com)
+📚 **Research Interests:**
+
+- ✅ Computational Fluid Dynamics (CFD)  
+- ✅ Design for Manufacturability (DFM & DFMA)  
+- ✅ Biomimetics & Nature-Inspired Systems  
+- ✅ Mechanics of Materials & Fluid Mechanics  
+- ✅ Embedded Control Systems for Mechatronics Applications
 
 ---
 
-## 🔗 **3D Modeling Projects**:  
-You can explore my 3D modeling projects on my GrabCAD profile:  
-[**Taimour Zahid on GrabCAD**](https://grabcad.com/taimour.zahid-4)
+📫 **Let’s Connect:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TaimourZahid-blue?logo=linkedin)](https://linkedin.com/in/taimourzahid)  
+[![GrabCAD](https://img.shields.io/badge/GrabCAD-3D_Projects-red?logo=grabcad)](https://grabcad.com/taimour.zahid)  
+📧 taimourzahid999@gmail.com  
 
 ---
 
-</div>
+🔗 **Current Focus:**  
+Exploring multi-domain simulations combining CFD and control systems for real-world mechanical system optimization. Open to research collaborations and technical internships.
+
