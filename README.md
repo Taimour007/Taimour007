@@ -40,16 +40,30 @@
 
 🔧 **Tech Stack:**
 
-- 💻 *Design & Simulation:*  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="20" alt="SolidWorks" /> SolidWorks,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ansys_logo.svg/512px-Ansys_logo.svg.png" height="20" alt="ANSYS" /> ANSYS,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Webots_logo.svg" height="20" alt="Webots" /> Webots,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Netfabb_Logo.png" height="20" alt="Netfabb" /> Netfabb
+---
 
-- ⚙️ *Programming:*  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20" alt="MATLAB" /> MATLAB,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="20" alt="PyCharm" /> PyCharm,  
-  Python, Arduino
+🛠️ **Tools I Use**
+
+<p align="center">
+  <!-- SolidWorks (No reliable icon available) -->
+  <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-Design-blue?style=for-the-badge&logoColor=white" />
+
+  <!-- MATLAB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
+
+  <!-- ANSYS (fallback text badge) -->
+  <img alt="ANSYS" src="https://img.shields.io/badge/ANSYS-Simulation-yellow?style=for-the-badge&logoColor=white" />
+
+  <!-- Webots (fallback text badge) -->
+  <img alt="Webots" src="https://img.shields.io/badge/Webots-Robotics-brightgreen?style=for-the-badge&logoColor=white" />
+
+  <!-- Netfabb (fallback text badge) -->
+  <img alt="Netfabb" src="https://img.shields.io/badge/Netfabb-3D--Prep-orange?style=for-the-badge&logoColor=white" />
+
+  <!-- PyCharm -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="40" alt="PyCharm" />
+</p>
+
   
 ---
 
