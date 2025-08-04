@@ -41,24 +41,23 @@
 🛠️ **Tools I Use**
 
 <p align="center">
-  <!-- SolidWorks (badge since no free icon available) -->
-  <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-Design-blue?style=for-the-badge&logo=solidworks&logoColor=white" height="40" />
+  <!-- SolidWorks SVG (via SVGRepo, CC0 licensed) -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/solidworks.svg" height="40" alt="SolidWorks" />
 
-  <!-- MATLAB icon -->
+  <!-- MATLAB icon via Devicons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
 
-  <!-- ANSYS logo from Wikimedia -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/ANSYS_logo.png" height="40" alt="ANSYS" />
+  <!-- ANSYS SVG via SVGRepo (CC0 license) -->
+  <img src="https://www.svgrepo.com/show/329931/ansys.svg" height="40" alt="ANSYS" />
 
-  <!-- Webots (fallback badge) -->
-  <img alt="Webots" src="https://img.shields.io/badge/Webots-Robotics-green?style=for-the-badge&logo=robotics&logoColor=white" height="40" />
+  <!-- Webots logo via Cyberbotics Brandfetch (public brand asset) -->
+  <img src="https://avatar-files.cbrandcdn.com/webots/logo/webots.svg" height="40" alt="Webots" />
 
-  <!-- Netfabb (badge fallback) -->
-  <img alt="Netfabb" src="https://img.shields.io/badge/Netfabb-3DPrep-orange?style=for-the-badge" height="40" />
+  <!-- Netfabb (no free icon available) -->
+  <span style="font-size:0.9rem; margin:0 10px;">Netfabb</span>
 
-  <!-- PyCharm icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
-</p>
+  <!-- PyCharm icon via Devicons -->
+  <img src="https://cdn
 
 ---
 
