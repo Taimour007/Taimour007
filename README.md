@@ -38,8 +38,6 @@
 
 ---
 
----
-
 🛠️ **Tools I Use**
 
 <!-- Row 1: Icons Only -->
