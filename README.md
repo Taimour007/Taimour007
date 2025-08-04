@@ -1,8 +1,32 @@
-<!-- 👋 Centered Hey There -->
+<!-- 🔠 1. Dynamic DESIGN SPACE Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1000&center=true&vCenter=true&width=800&lines=THE+DESIGN+SPACE" alt="Typing SVG" />
+</h1>
+
+<!-- 🏷️ 2. Badges + GitHub Views -->
+<p align="center">
+  <a href="https://grabcad.com/taimour.zahid-1" target="_blank">
+    <img src="https://img.shields.io/badge/GrabCAD-Taimour_Zahid-red?logo=grabcad&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/taimourzahid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Taimour_Zahid-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/TaimourZahid">
+    <img src="https://komarev.com/ghpvc/?username=TaimourZahid&style=for-the-badge" alt="Profile views" />
+  </a>
+</p>
+
+<!-- 👋 3. Centered 'Hey There' with Waving Emoji -->
 <h2 align="center">
-  HEY THERE <span style="font-size:1.5rem;">👋</span>
+  HEY THERE <span>👋</span>
 </h2>
 
+<!-- 🎞️ 4. Pixelated Motion Background Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/VzE2V9B.gif" alt="Pixel Tech Banner" width="100%" />
+</p>
+
+<!-- 📄 5. About Me, Tech Stack, Projects -->
 ---
 
 👨‍💻 **About Me:**
@@ -37,10 +61,3 @@ Led design and CFD/FEA analysis of a competitive vehicle for drag optimization a
 
 🌌 **OceanGate Submersible Failure Analysis**  
 Analyzed structural failure of a carbon fiber submarine using combined stress criteria and fatigue theory.
-
----
-
-<!-- 🎞️ Pixel Engineering Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/VzE2V9B.gif" alt="Pixel Tech Banner" width="100%" />
-</p>
